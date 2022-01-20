@@ -27,6 +27,7 @@ To get a local copy up and running
 ## Author
 
 👤 **Ukwishaka Levy**
+👤 **David Ouma**
 
 - [GitHub](https://github.com/levy002)
 - [LinkedIn](https://www.linkedin.com/in/levy-ukwishaka-405391223)
