@@ -1,8 +1,0 @@
-{
-  "devDependencies": {
-    "hint": "^6.1.9"
-  },
-  "dependencies": {
-    "bootstrap-icons": "^1.7.2"
-  }
-}
